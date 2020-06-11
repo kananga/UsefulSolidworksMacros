@@ -1,0 +1,2 @@
+# UsefulSolidworksMacros
+Useful Solidworks macros
